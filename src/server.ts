@@ -1,0 +1,1 @@
+console.log("Dependencies has been installed for dev")
